@@ -67,7 +67,7 @@ a slightly different question.
 
 | Absolute scale (fixed quartile breaks, full city extent) | Relative scale (Natural Breaks, urban area only) |
 |---|---|
-| ![Absolute risk map](docs/risk_map_absolute.jpg) | ![Relative risk map](docs/risk_map_relative.png) |
+| ![Absolute risk map](docs/risk_map_absolute.jpg) | ![Relative risk map](docs/risk_map_relative.jpg) |
 | *"How risky is this urban cell compared to the entire city, rural periphery included?"* | *"How does this cell compare to other urban cells specifically?"* |
 
 **Why both:** classifying the same continuous probability surface with
