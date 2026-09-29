@@ -10,9 +10,10 @@ data, road network analysis, and machine learning.
 
 This project identifies which areas of Calgary are statistically more likely
 to experience high-risk traffic incidents, using ~10 years of open incident
-data (2016–present) combined with road network characteristics. It combines
-GIS spatial analysis (grid construction, road network feature engineering,
-spatial smoothing) with a machine learning classification model.
+data (December 2016 – September 2026) combined with road network
+characteristics. It combines GIS spatial analysis (grid construction, road
+network feature engineering, spatial smoothing) with a machine learning
+classification model.
 
 **Why this project:** most public "collision prediction" projects for Calgary
 stop at a simple map of raw incident points. This one goes further by (1)
@@ -172,3 +173,8 @@ Systems, 9-month project-based Data Science certification (TripleTen).
 Currently based in Calgary, AB, building applied data science skills on top
 of a geospatial engineering background.
 [LinkedIn](https://www.linkedin.com/in/afgarciar/)
+
+---
+*Analysis based on incident data from December 2016 through September 2026.
+The source dataset updates continuously; results reflect a snapshot as of
+that date and would shift somewhat if regenerated with more recent data.*
