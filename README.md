@@ -3,7 +3,7 @@
 Predicting high-risk zones for traffic collisions in Calgary using open civic
 data, road network analysis, and machine learning.
 
-![Predicted high-risk zones](docs/risk_map_relative.png)
+![Predicted high-risk zones](docs/risk_map_relative.jpg)
 *Predicted collision risk by zone (relative scale within the urban area — see "Risk map" section below for the full comparison with the absolute-scale version).*
 
 ## Overview
@@ -67,7 +67,7 @@ a slightly different question.
 
 | Absolute scale (fixed quartile breaks, full city extent) | Relative scale (Natural Breaks, urban area only) |
 |---|---|
-| ![Absolute risk map](docs/risk_map_absolute.png) | ![Relative risk map](docs/risk_map_relative.png) |
+| ![Absolute risk map](docs/risk_map_absolute.jpg) | ![Relative risk map](docs/risk_map_relative.png) |
 | *"How risky is this urban cell compared to the entire city, rural periphery included?"* | *"How does this cell compare to other urban cells specifically?"* |
 
 **Why both:** classifying the same continuous probability surface with
